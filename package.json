@@ -1,6 +1,6 @@
 {
   "name": "facesoft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Facesoft API Wrapper for node.js and browsers",
   "main": "lib/index.js",
   "repository": "github:Facesoft-github/facesoft-javascript",
